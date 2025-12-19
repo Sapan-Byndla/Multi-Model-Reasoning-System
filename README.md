@@ -1,5 +1,5 @@
-# Tri-Model Judiciary System
-
+# Multi-Model Judiciary Reasoning System (Thinker-Critic-Judge Architecture)
+ 
 A multi-model reasoning chatbot system featuring three specialized models: Thinker, Critic, and Judge.
 
 ## Architecture
